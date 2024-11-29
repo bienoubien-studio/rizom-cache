@@ -46,4 +46,4 @@ export const load = async (event: ServerLoadEvent) => {
 ```
 
 ### Routes
-- GET/POST : `api/clear-cache'
+- GET/POST : `api/clear-cache`
